@@ -1,5 +1,4 @@
 "# Notes" 
-# Day 2 Notes
 
 ## What I did today
 - Connected to EC2 successfully via SSH using PowerShell
@@ -13,9 +12,3 @@
 - Why GitHub push was denied (wrong account)
 - How to authenticate GitHub CLI with correct account
 - Importance of project documentation (docs/ folder)
-
-## Next Steps (Day 3)
-- Install NGINX on EC2
-- Serve a simple custom webpage
-- Document NGINX setup
-- Push Day-3 progress to GitHub
