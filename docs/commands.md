@@ -1,6 +1,6 @@
 "# EC2 Commands" 
 
-# EC2 Web Server Project — Commands Used (Day 2)
+# EC2 Web Server Project — Commands Used
 
 ## 1. AWS EC2 Setup
 - Launched Ubuntu 22.04 LTS instance
